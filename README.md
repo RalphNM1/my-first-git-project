@@ -1,6 +1,6 @@
 # My First Git Project
 
-Este é o meu primeiro intento con git/This is first try with git.
+Este é o meu primeiro intento con git/This is my first try with git.
 
 Quero poder / I want to do:
 
