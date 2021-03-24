@@ -7,16 +7,11 @@ Quero poder / I want to do:
 - Aprender git / Learn git.
 - Aprender Github / Learn Github.
 - Aprender Markdown / Learn Markdown.
-- Aprender a facer manuais / Learn how to make a manual
+- Aprender a facer manuais / Learn how to make a manual.
 
-## Aprender git / Learn git.
+## Índice
 
-```sql
-SELECT name
-FROM world
-WHERE continent = 'Europe';
-
-```
+[Capítulo 1 - SQL](./capitulo-1/README.md)
 
 ## Aprender Github / Learn Github.
 
